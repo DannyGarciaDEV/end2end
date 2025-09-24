@@ -1,7 +1,6 @@
 # README — Next.js + Cypress (Friendly Guide)
 
 This project is a **Next.js** app with **Cypress** set up for end-to-end (E2E) testing. 
-
 ---
 
 
