@@ -1,31 +1,39 @@
-# README — Next.js + Cypress (Beginner-Friendly Guide)
+# README — Next.js + Cypress (Friendly Guide)
 
 This project is a **Next.js** app with **Cypress** set up for end-to-end (E2E) testing. 
+
 ---
 
 
 
 ## 🚀 How to Run the App
 
-1. cd into my-app
+1. clone this repo
+
+```bash
+git clone https://github.com/DannyGarciaDEV/end2end.git
+```
+
+
+2. cd into my-app
 
 ```bash 
 cd my-app
 ```
 
-2. Install dependencies:
+3. Install dependencies:
 
 ```bash
 npm install
 ```
 
-3. Start the Next.js development server:
+4. Start the Next.js development server:
 
 ```bash
 npm run dev
 ```
 
-4. Open the app in your browser:
+5. Open the app in your browser:
 
 ```
 http://localhost:3000
