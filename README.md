@@ -14,10 +14,10 @@ git clone https://github.com/DannyGarciaDEV/end2end.git
 ```
 
 
-2. cd into my-app
+2. cd into end2end
 
 ```bash 
-cd my-app
+cd end2end
 ```
 
 3. Install dependencies:
